@@ -8,7 +8,7 @@ const service = axios.create({
     baseURL: config.baseApi
 })
 
-const NETWORK_ERROR = '网络错误...'
+const NETWORK_ERROR = 'error...'
 
 // 添加请求拦截器
 service.interceptors.request.use(
