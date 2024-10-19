@@ -9,3 +9,7 @@
     是自学 vue3 的一个练手项目
 
     这里没有什么apifox，他是包含了 mock.js 来实现mock数据的
+
+    pinia 实现的状态管理
+
+    element-plus 实现的组件库
